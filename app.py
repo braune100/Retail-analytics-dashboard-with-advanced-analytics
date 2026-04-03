@@ -11,7 +11,7 @@ st.set_page_config(page_title="Retail Analytics Dashboard", layout="wide")
 # ----------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("online_retail.csv", encoding="ISO-8859-1")
+    df = pd.read_csv("online_retail_small.csv", encoding="ISO-8859-1")
 
     df.columns = df.columns.str.strip()
 
