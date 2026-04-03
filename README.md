@@ -6,7 +6,7 @@ This project transforms raw transactional data into **business insights**, inclu
 ---
 
 ## 🚀 Live Demo
-👉 https://your-streamlit-app-link.streamlit.app
+👉 https://Retail-analytics-dashboard-with-advanced-analytics.streamlit.app
 
 ---
 
@@ -107,7 +107,7 @@ This dashboard helps businesses:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/retail-dashboard.git
+git clone https://github.com/braune100/retail-dashboard.git
 
 # Install dependencies
 pip install -r requirements.txt
